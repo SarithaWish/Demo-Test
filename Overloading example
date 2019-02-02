@@ -9,6 +9,9 @@ class Sum
     {
         return n1+n2+n3;
     }
+    Sum obj = new Sum();
+    Sum obj = new Sum();
+    Sum obj = new Sum();
     
     }
     public static void main(String args[])

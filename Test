@@ -13,8 +13,7 @@
 												  System.out.println("Its a five digit number");			
 												  	}
 														else {
-															  System.out.println("number is not between 1 & 99999");
-															  	  System.out.printlin("modified in Kushi Branch");
+														  System.out.println("number is not between 1 & 99999");
+                               	  System.out.println("modified in Kushi Branch");
 																  System.out.println("this is latest from Wish");
 																  	}
-
